@@ -1,4 +1,3 @@
-Here’s an updated profile README to incorporate all of these details. This version highlights your internships, leadership experience, and final-year student status:
 
 ---
 
