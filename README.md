@@ -3,14 +3,15 @@
 
 # 👋 Hi there, I'm Mohawiz Hamid!
 
-I'm a **final-year BSc Data Science student** with a strong foundation in **Artificial Intelligence, Machine Learning, and NLP**. I’m passionate about using AI to drive impactful solutions, and I've gained diverse experiences through multiple internships and projects, including **team leadership in NLP-focused initiatives**.
+I'm a BSc Data Science graduate with a strong foundation in **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing**. I’m passionate about applying **AI** to develop impactful, real-world solutions and have gained diverse experience through multiple internships and projects, including leading teams on NLP-focused initiatives.
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Final-year BSc Data Science student at UET Peshawar
+- 🎓 **Education:** BSc Data Science from UET Peshawar
 - 💼 **Experience:**
+  - **Data & AI Engineer at Petcon Oil and Gas Services** Currently working as a Python Developer Intern at Petcon Oil & Gas Services, developing enterprise-level applications. 
   - **AI Intern at ITSOLERA Pvt Ltd:** Team Lead of **Team Alpha NLP**
   - **AI Intern at CyberSync Technologies:** Focused on OpenCV,Image Processing and chatbot development (3 months)
   - **Programming Intern at DigitCom Technologies:** Gained practical experience in software development (2 months)
