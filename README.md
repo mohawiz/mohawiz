@@ -3,7 +3,9 @@
 
 # 👋 Hi there, I'm Mohawiz Hamid!
 
-I'm a BSc Data Science graduate with a strong foundation in **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing**. I’m passionate about applying **AI** to develop impactful, real-world solutions and have gained diverse experience through multiple internships and projects, including leading teams on NLP-focused initiatives.
+I'm a **Data Science** graduate and Master's student in **Artificial Intelligence** based in Tallinn, Estonia. I have professional experience as a Python/AI Developer, building real-world applications and automation solutions using Python, JavaScript, REST APIs, SQL, Docker, and modern web technologies.
+
+I'm passionate about building practical, scalable, and automated solutions, with hands-on experience across backend development, web applications, APIs, databases, and AI-powered systems. I enjoy solving complex problems, learning new technologies, and turning ideas into reliable real-world applications..
 
 ---
 
