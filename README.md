@@ -7,18 +7,18 @@ I'm a **Data Science** graduate and Master's student in **Artificial Intelligenc
 
 I'm passionate about building practical, scalable, and automated solutions, with hands-on experience across backend development, web applications, APIs, databases, and AI-powered systems. I enjoy solving complex problems, learning new technologies, and turning ideas into reliable real-world applications..
 
----
+### 🚀 About Me
 
-🎓 Education: BSc Data Science from UET Peshawar | Currently pursuing a Master's in Artificial Intelligence in Tallinn, Estonia
-💼 Experience:
-Python / AI Developer at Petcon Oil & Gas Services: 1 year of experience developing enterprise applications, Python services, web solutions, REST APIs, automated workflows, and Docker-based environments.
-AI Intern at ITSOLERA Pvt Ltd: Team Lead of Team Alpha NLP, working on AI and NLP projects.
-AI Intern at CyberSync Technologies: Worked on OpenCV, image processing, chatbot development, and AI applications.
-Programming Intern at DigitCom Technologies: Gained practical experience in software development and programming.
-🛠️ Core Skills: Python, JavaScript, REST APIs, SQL, Docker, Vue.js, Frappe Framework, Git, Linux, Automation, Data Analysis, and AI/LLMs
-🚀 Interests: Backend & Web Development, Automation, APIs, AI-powered applications, and building practical real-world solutions
-🌱 Currently Learning: Next.js, modern web development, and scalable application development
----
+🎓 **BSc Data Science — UET Peshawar** | 🎓 **MSc AI — Tallinn, Estonia**
+
+💼 **Experience:** Python/AI Developer @ Petcon Oil & Gas (1 year) · AI Intern @ ITSOLERA · AI Intern @ CyberSync · Programming Intern @ DigitCom
+
+🛠️ **Skills:** Python · JavaScript · REST APIs · SQL · Docker · Vue.js · Frappe · Git · Linux · Automation · AI/LLMs
+
+🚀 **Interests:** Backend & Web Development · Automation · APIs · AI Applications
+
+🌱 **Currently Learning:** Next.js & Modern Web Development
+
 
 ### 🔧 Technologies & Tools
 
