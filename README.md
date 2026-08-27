@@ -9,17 +9,15 @@ I'm passionate about building practical, scalable, and automated solutions, with
 
 ---
 
-### 🚀 About Me
-
-- 🎓 **Education:** BSc Data Science from UET Peshawar
-- 💼 **Experience:**
-  - **Data & AI Engineer at Petcon Oil and Gas Services** Currently working as a Python Developer at Petcon Oil & Gas Services, developing enterprise-level applications. 
-  - **AI Intern at ITSOLERA Pvt Ltd:** Team Lead of **Team Alpha NLP**
-  - **AI Intern at CyberSync Technologies:** Focused on OpenCV,Image Processing and chatbot development (3 months)
-  - **Programming Intern at DigitCom Technologies:** Gained practical experience in software development (2 months)
-- 📊 **Core Skills:** Data Analysis, Machine Learning, NLP, and Exploratory Data Analysis (EDA)
-- 🌱 **Currently Learning:** Model Comparisons, Advanced NLP Techniques, and Intelligent Data Preprocessing
-
+🎓 Education: BSc Data Science from UET Peshawar | Currently pursuing a Master's in Artificial Intelligence in Tallinn, Estonia
+💼 Experience:
+Python / AI Developer at Petcon Oil & Gas Services: 1 year of experience developing enterprise applications, Python services, web solutions, REST APIs, automated workflows, and Docker-based environments.
+AI Intern at ITSOLERA Pvt Ltd: Team Lead of Team Alpha NLP, working on AI and NLP projects.
+AI Intern at CyberSync Technologies: Worked on OpenCV, image processing, chatbot development, and AI applications.
+Programming Intern at DigitCom Technologies: Gained practical experience in software development and programming.
+🛠️ Core Skills: Python, JavaScript, REST APIs, SQL, Docker, Vue.js, Frappe Framework, Git, Linux, Automation, Data Analysis, and AI/LLMs
+🚀 Interests: Backend & Web Development, Automation, APIs, AI-powered applications, and building practical real-world solutions
+🌱 Currently Learning: Next.js, modern web development, and scalable application development
 ---
 
 ### 🔧 Technologies & Tools
